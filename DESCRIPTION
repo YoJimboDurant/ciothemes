@@ -12,6 +12,8 @@ Imports:
     grid,
     proto,
     scales,
+Encoding: 
+    UTF-8
 Suggests:
     plyr,
     reshape2,
