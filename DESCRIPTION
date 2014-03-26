@@ -11,7 +11,7 @@ Imports:
     colorspace,
     grid,
     proto,
-    scales,
+    scales
 Encoding: 
     utf-8
 Suggests:
