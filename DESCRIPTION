@@ -13,7 +13,7 @@ Imports:
     proto,
     scales,
 Encoding: 
-    UTF-8
+    utf-8
 Suggests:
     plyr,
     reshape2,
