@@ -1,7 +1,7 @@
 Package: ciothemes
 Version: 0.1
 Date: 2014-03-15
-Title: color schemes and graphics settings for those who need themâ€¦
+Title: color schemes and graphics settings for those who need them…
 Authors@R: c(person("Matthew J.", "Maenner", role = c("aut", "cre"),
     email = "maenner@gmail.com"))
 Depends:
@@ -16,6 +16,6 @@ Suggests:
     plyr,
     reshape2,
     extrafont
-Description: collection of themes and color palettes for R graphics. Based on Jeffrey Arnoldâ€™s ggthemes package.
+Description: collection of themes and color palettes for R graphics. Based on Jeffrey Arnold’s ggthemes package.
 License: GPL-3
 URL: TBD
